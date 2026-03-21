@@ -1,6 +1,6 @@
 # skibidi phone usb hub
 
-a very skibidi usb hub for my google pixel 7. powered by the fe1.1s and will power
+a very skibidi usb hub for my google pixel 7. powered by the fe1.1s and will power, providing 1 upstream usb c port, 2 downstream usb c ports, and 2 downstream usb a ports!!
 
 ### Update (Mar 21 2026 13:08 PST)
 
