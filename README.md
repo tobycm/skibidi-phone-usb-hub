@@ -18,6 +18,8 @@ Updated .step file: removed cutout for bulk capacitor.
 
 ## CAD
 
+Onshape Model Link: https://cad.onshape.com/documents/10b57464fda6e11087981088/w/324a5dd08e96a242cfbf7cb1/e/a8a34f6420c32109d6a4c98d
+
 ![case with pcb](assets/case.png)
 
 ![case with no top cover](assets/case_no_top.png)
