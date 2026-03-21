@@ -648,7 +648,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "skibidi-phone-usb-hub.step",
+      "step": "../cad/skibidi-phone-usb-hub.step",
       "svg": "",
       "vrml": ""
     },

@@ -10,13 +10,19 @@ USB-A (USB TYPE-A) Receptacle Connector 4 Position Right Angle,30,AF 90 WJDG,0.0
 "25V 470uF 1.6A@100kHz 20mΩ@100kHz ±20% Through Hole,D8xL11.5mm Aluminum - Polymer Capacitors RoHS",5,PH25V470M8X11,0.2282,1.14,https://www.lcsc.com/product-detail/C49232874.html
 56kΩ ±1% 100mW 0603 Thick Film Resistor,100,0603WAF5602T5E,0.0013,0.13,https://www.lcsc.com/product-detail/C23206.html
 ,,,,,
-ESD DIODE 5VWM 18.6VC SOD-523 (already have),0,ESD5Z5.0T1G,0.0354,0.00,https://www.lcsc.com/product-detail/C82044.html
-PTC RESET FUSE 12V 2A 1206 (already have),0,BSMD1206-200-12V,0.0612,0.00,https://www.lcsc.com/product-detail/C883135.html
-FERRITE BEAD 220Ω 0805 1LN (already have),0,BLM21PG221SN1D,0.0230,0.00,https://www.lcsc.com/product-detail/C85840.html
+ESD DIODE 5VWM 18.6VC SOD-523 (already have),0,ESD5Z5.0T1G,0.0354,0,https://www.lcsc.com/product-detail/C82044.html
+PTC RESET FUSE 12V 2A 1206 (already have),0,BSMD1206-200-12V,0.0612,0,https://www.lcsc.com/product-detail/C883135.html
+FERRITE BEAD 220Ω 0805 1LN (already have),0,BLM21PG221SN1D,0.023,0,https://www.lcsc.com/product-detail/C85840.html
 ,,,,,
 LCSC Shipping,1,LCSC Shipping,14.67,14.67,https://www.lcsc.com/
-4 Layer PCB,10,PCB,2.3,23.00,https://jlcpcb.com/
+,,,,,
+4 Layer PCB,10,PCB,2.3,23,https://jlcpcb.com/
 Stencil,1,Stencil,3.05,3.05,https://jlcpcb.com/
+,,,,,
 JLCPCB Shipping,1,JLCPCB Shipping,10.08,10.08,https://jlcpcb.com/
 ,,,,,
-,,Total:,,67.43,
+150pcs White Nylon Hex Screw M2 M2.5 M3 M4 M5 Bolt Nut Standoff Spacer Kit with Plastic Box Corrosion Resistant ,1,1005002059852181,4.07,4.07,https://www.aliexpress.com/item/1005002059852181.html
+,,,,,
+Aliexpress Shipping,1,Aliexpress Shipping,2.04,2.04,https://www.aliexpress.com
+,,,,,
+,,Total:,,73.54,
