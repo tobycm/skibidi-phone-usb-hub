@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "854b5a43-d921-4641-a0a5-403a8ff88c35")
 	(paper "A4")
+	(title_block
+		(title "Skibidi Phone USB Hub")
+		(date "2026-03-20")
+		(rev "V1")
+		(company "Toby Cm's Lab x Hack Club")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers

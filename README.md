@@ -2,6 +2,8 @@
 
 a very skibidi usb hub for my google pixel 7. powered by the fe1.1s and will power, providing 1 upstream usb c port, 2 downstream usb c ports, and 2 downstream usb a ports!!
 
+[\[Blueprint\]](https://blueprint.hackclub.com/projects/13784) | [\[KiCanvas\]](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Ftobycm%2Fskibidi-phone-usb-hub%2Ftree%2Fmain%2Fpcb) | [\[Onshape\]](https://cad.onshape.com/documents/10b57464fda6e11087981088/w/324a5dd08e96a242cfbf7cb1/e/a8a34f6420c32109d6a4c98d)
+
 ### Update (Mar 21 2026 13:08 PST)
 
 Going to drop the big bulk capacitor as that might cause too much inrush current. Each 10uF at each port should be enough, adds up to 50uF for VBUS.
@@ -48,3 +50,8 @@ Onshape Model Link: https://cad.onshape.com/documents/10b57464fda6e11087981088/w
 | 150pcs Nylon Standoff/Screw Kit | 1 | 1005002059852181 | 4.07 | 4.07 | [Link](https://www.aliexpress.com/item/1005002059852181.html) |
 | Aliexpress Shipping | 1 | Aliexpress Shipping | 2.04 | 2.04 | [Link](https://www.aliexpress.com) |
 | **Total** | | | | **73.54** | |
+
+<img src="./assets/logo.png" width="16"> <a href="https://github.com/tobycm">tobycm</a>
+
+
+This project was funded by [Blueprint](https://blueprint.hackclub.com/), a grant program by Hack Club that supports open source hardware projects for teenagers.
