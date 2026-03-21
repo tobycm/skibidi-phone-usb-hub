@@ -10,6 +10,12 @@ a very skibidi usb hub for my google pixel 7. powered by the fe1.1s and will pow
 
 ![pcb 3d view](assets/pcb_3d.png)
 
+## CAD
+
+![case with pcb](assets/case.png)
+
+![case with no top cover](assets/case_no_top.png)
+
 ## BOM
 
 | Description | Quantity | Part # | Unit Price | Extended Price (USD) | Product Link |

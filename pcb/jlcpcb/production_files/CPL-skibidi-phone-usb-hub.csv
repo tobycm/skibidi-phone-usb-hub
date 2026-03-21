@@ -1,5 +1,5 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C1,470u,CP_Radial_D8.0mm_P3.50mm,118.5,-107.347349,-90.0,top
+C1,470u,CP_Radial_D8.0mm_P3.50mm,111.0,-107.347349,-90.0,top
 C2,10u,C_0603_1608Metric,121.75,-98.5,-90.0,top
 C3,10u,C_0603_1608Metric,123.5,-98.5,-90.0,top
 C4,10u,C_0603_1608Metric,115.25,-101.0,-90.0,top
