@@ -36,6 +36,6 @@ fp-info-cache
 *.kicad_prl
 
 # jlcpcb production files
-pcb/jlcpcb/*
-!pcb/jlcpcb/production_files
-!pcb/jlcpcb/production_files/*
+jlcpcb/*
+!jlcpcb/production_files
+!jlcpcb/production_files/*
