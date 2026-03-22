@@ -18,6 +18,13 @@ Updated .step file: removed cutout for bulk capacitor.
 
 ![pcb 3d view](assets/pcb_3d.png)
 
+## Schematic
+
+![schematic page 1](assets/schematic-0.png)
+![schematic page 2](assets/schematic-1.png)
+![schematic page 3](assets/schematic-2.png)
+![schematic page 5](assets/schematic-4.png)
+
 ## CAD
 
 Onshape Model Link: https://cad.onshape.com/documents/10b57464fda6e11087981088/w/324a5dd08e96a242cfbf7cb1/e/a8a34f6420c32109d6a4c98d
@@ -52,6 +59,5 @@ Onshape Model Link: https://cad.onshape.com/documents/10b57464fda6e11087981088/w
 | **Total** | | | | **73.54** | |
 
 <img src="./assets/logo.png" width="16"> <a href="https://github.com/tobycm">tobycm</a>
-
 
 This project was funded by [Blueprint](https://blueprint.hackclub.com/), a grant program by Hack Club that supports open source hardware projects for teenagers.
