@@ -319,7 +319,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "V1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -819,16 +819,16 @@
       {
         "filename": "skibidi-phone-usb-hub.kicad_sch",
         "name": "skibidi-phone-usb-hub",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "854b5a43-d921-4641-a0a5-403a8ff88c35"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR10",
     "variants": []
   },
   "sheets": [
     [
       "854b5a43-d921-4641-a0a5-403a8ff88c35",
-      "Root"
+      "skibidi-phone-usb-hub"
     ],
     [
       "5c1a29cb-7049-486a-b306-b20d92f5c134",

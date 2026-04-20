@@ -10,12 +10,15 @@ C8,10u,C_0603_1608Metric,146.25,-106.75,-90.0,top
 D1,5V,D_SOD-523,118.25,-94.5,0.0,top
 F1,2A,Fuse_1206_3216Metric,115.25,-92.25,-90.0,top
 FB1,220Ω@100MHz,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,115.25,-97.0,-90.0,top
+H1,MountingHole,MountingHole_3.2mm_M3_Pad,109.0,-74.0,0.0,top
+H2,MountingHole,MountingHole_3.2mm_M3_Pad,171.0,-74.0,0.0,top
+H3,MountingHole,MountingHole_3.2mm_M3_Pad,109.0,-116.0,0.0,top
+H4,MountingHole,MountingHole_3.2mm_M3_Pad,171.0,-116.0,0.0,top
 J1,USB_C_Receptacle_USB2.0_16P,USB-C-SMD_TYPE-C-6PIN-2MD-073,109.825,-88.0,-90.0,top
 J2,USB_C_Receptacle_USB2.0_16P,USB-C-SMD_TYPE-C-6PIN-2MD-073,130.0,-74.825,180.0,top
 J3,USB_C_Receptacle_USB2.0_16P,USB-C-SMD_TYPE-C-6PIN-2MD-073,130.0,-115.175,0.0,top
 J4,USB_A,USB-A-TH_AF-WJDG,155.97,-81.1975,180.0,top
 J5,USB_A,USB-A-TH_AF-WJDG,156.0,-108.8025,0.0,top
-R1,5.1k,R_0603_1608Metric,123.5,-92.5,-90.0,top
 R2,2.7k,R_0603_1608Metric,121.75,-92.5,90.0,top
 R3,5.1k,R_0603_1608Metric,116.0,-84.5,90.0,top
 R4,5.1k,R_0603_1608Metric,109.5,-94.5,0.0,top
