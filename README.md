@@ -2,7 +2,7 @@
 
 a very skibidi usb hub for my google pixel 7. powered by the fe1.1s and will power, providing 1 upstream usb c port, 2 downstream usb c ports, and 2 downstream usb a ports!!
 
-[\[Blueprint\]](https://blueprint.hackclub.com/projects/13784) | [\[KiCanvas\]](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Ftobycm%2Fskibidi-phone-usb-hub%2Ftree%2Fmain%2Fpcb) | [\[Onshape\]](https://cad.onshape.com/documents/10b57464fda6e11087981088/w/324a5dd08e96a242cfbf7cb1/e/a8a34f6420c32109d6a4c98d)
+[\[Blueprint\]](https://blueprint.hackclub.com/projects/13784) | [\[KiCanvas\]](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Ftobycm%2Fskibidi-phone-usb-hub%2Ftree%2Fmain%2Fpcb) | [\[Onshape\]](https://cad.onshape.com/documents/10b57464fda6e11087981088/w/324a5dd08e96a242cfbf7cb1/e/a8a34f6420c32109d6a4c98d) | [\[Interactive BOM\]](https://html-preview.github.io/?url=https://github.com/tobycm/skibidi-phone-usb-hub/blob/main/pcb/bom/ibom.html)
 
 ### Update (Mar 21 2026 13:08 PST)
 
